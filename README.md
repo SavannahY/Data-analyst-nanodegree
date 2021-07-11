@@ -1,2 +1,0 @@
-# Data-analyst-nanodegree
-Udacity
